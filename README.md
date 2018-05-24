@@ -418,12 +418,9 @@ sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/AloneMonkey/Monk
 今天就先介绍到这里,
 文章会继续更新,
 更多的软件使用也会写入文章,
-请持续关注.
-又是该睡觉的时间了,
-希望这篇文章能帮助到你.
-我把软件整理后上传网盘或者github.
-如果你看到这里,
-你就知道了软件的下载地址.
+请持续关注我的博客,
+简书地址:https://www.jianshu.com/p/beea9f2b9f7d
+
 
 
 
