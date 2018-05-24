@@ -10,7 +10,7 @@
 才能进行实战开发.
 接下来我们会一一介绍工具的安装和使用.
 
-##1.逆向汇编工具
+## 1.逆向汇编工具
 
 * pp助手
 * go2shell
@@ -32,8 +32,8 @@
 具备了这些工具,你就可以看一下App中的内部结构,App一下子变得很透明.
 所以对App的安全防护是非常重要的.
 
-##2.汇编逆向工具安装
-####1.pp助手
+## 2.汇编逆向工具安装
+#### 1.pp助手
 
 ![pp助手.png](https://upload-images.jianshu.io/upload_images/2960658-fcbcfb28ca7c1b17.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -51,7 +51,7 @@
 * 我们会在MonkeyDev项目开发中用到(先做了解).
 * 也可以结合终端程序进行安装调试(先做了解).
 
-####2.go2shell-一款懒人命令行必备神器
+#### 2.go2shell-一款懒人命令行必备神器
 ![go2shell.png](https://upload-images.jianshu.io/upload_images/2960658-2beaff2c1036286f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 下载地址:http://zipzapmac.com/go2shell
 
@@ -74,7 +74,7 @@
 意不意外?
 惊不惊喜?
 
-####3. iTerm2
+#### 3. iTerm2
 下载地址：[https://www.iterm2.com/downloads.html](https://www.iterm2.com/downloads.html)
 
 * 1.下载好,直接拖到应用文件夹就可以使用了.
@@ -128,7 +128,7 @@ http://www.cnblogs.com/xishuai/p/mac-iterm2.html
 
 * 下一次终端连接手机的时候,就可以免密登录.
 
-####4. Alfred+32
+#### 4. Alfred+32
 ![Alfred+32.png](https://upload-images.jianshu.io/upload_images/2960658-e153958883618f33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 * 1.把Alfred 3 拖入到应用程序
@@ -144,7 +144,7 @@ http://www.cnblogs.com/xishuai/p/mac-iterm2.html
 以上两个例子,还有很多功能等待你发掘...
 
 
-####5. XtraFinder
+#### 5. XtraFinder
 下载地址: http://www.trankynam.com/xtrafinder/
 (让你的 Mac 资源管理器变得更加强大)
 
@@ -159,7 +159,7 @@ http://www.cnblogs.com/xishuai/p/mac-iterm2.html
 * 根据个人需求,配置选项.
 
 
-####6.iFunBox
+#### 6.iFunBox
 1.介绍
 * iFunBox是一款小巧的iPhone文件管理软件
 * 界面类似于Windows资源管理器，以简练时尚的窗口方式浏览和管理iPhone、iPad、iPod touch上的文件和目录。
@@ -176,7 +176,7 @@ http://www.cnblogs.com/xishuai/p/mac-iterm2.html
 ![Apple File Conduit 2.jpg](https://upload-images.jianshu.io/upload_images/2960658-0e7efdffc591c7cc.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-####7. IDA Pro--汇编程序员的生命
+#### 7. IDA Pro--汇编程序员的生命
 ![IDA Pro.png](https://upload-images.jianshu.io/upload_images/2960658-6d35d4c56b11a2f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 * 交互式反汇编器专业版（Interactive Disassembler Professional），人们常称其为IDA Pro，或简称为IDA。
 * 是目前最棒的一个静态反编译软件，为众多[0day]世界的成员和[ShellCode]安全分析人士不可缺少的利器！
@@ -405,7 +405,7 @@ sudo /bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/AloneMonkey/Monk
 ![MonkeyApp.png](https://upload-images.jianshu.io/upload_images/2960658-acfa14071a1b7952.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 这样,我们就可以创建项目了.
 
-##3.总结
+## 3.总结
 
 工具安装和配置比较考验大家的动手能力,
 配置好后,
